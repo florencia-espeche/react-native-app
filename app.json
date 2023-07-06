@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-app",
-    "slug": "react-native-app",
+    "name": "rate-repository-app",
+    "slug": "rate-repository-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,7 +13,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
